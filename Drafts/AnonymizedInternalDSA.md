@@ -18,7 +18,7 @@ City of __________________________
 	Email:
 	Phone:
  
-Whereas, City is interested in exploring and developing an integrated set of solutions for the intelligent and integrated management of the urban area and the services provided by it.
+Whereas, the City is interested in exploring and developing an integrated set of solutions for the intelligent and integrated management of the urban area and the services provided by it.
 
 Whereas, the City has a network of sensors that is being used to collect different types of data, and recognizes that the collected data can be used between different city departments to: 
 -	Improve client outcomes
