@@ -1,10 +1,10 @@
 Doc.Title=MUTUAL NONDISCLOSURE AGREEMENT 
 
-0.1.sec=This Mutual Nondisclosure Agreement (this “Agreement”) is made as of DATE, by and between COMPANY NAME, a STATE corporation or limited liability company(the “Company”), and COMPANY NAME a STATE corporation or limited liability company (“Counterparty”).  Each party has disclosed and/or may further disclose its Confidential Information (as defined below) to the other in connection with the Relationship (as defined below) pursuant to the terms and conditions of this Agreement.  The term “Discloser” will refer to the Company whenever the context refers to the Company’s Confidential Information being disclosed to Counterparty, which is referred to as “Recipient” in that context.  Conversely, the term “Discloser” will refer to Counterparty whenever the context refers to Counterparty’s Confidential Information being disclosed to the Company, which is referred to as “Recipient” in that context. 
+0.1.sec=This Mutual Nondisclosure Agreement (this “Agreement”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “Company”), and {P2.N,E,A} (“Counterparty”).  Each party has disclosed and/or may further disclose its Confidential Information (as defined below) to the other in connection with the Relationship (as defined below) pursuant to the terms and conditions of this Agreement.  The term “Discloser” will refer to the Company whenever the context refers to the Company’s Confidential Information being disclosed to Counterparty, which is referred to as “Recipient” in that context.  Conversely, the term “Discloser” will refer to Counterparty whenever the context refers to Counterparty’s Confidential Information being disclosed to the Company, which is referred to as “Recipient” in that context. 
 
 0.2.sec=RECITALS
 
-0.3.sec=The parties wish to explore a possible business opportunity   or are entering a business opportunity of mutual interest regarding DESCRIBE (the “Relationship”) in connection with which Discloser has disclosed and/or may further disclose its Confidential Information (as defined below) to Recipient.  This Agreement is intended to protect Discloser’s Confidential Information (including Confidential Information previously disclosed to Recipient) against unauthorized use or disclosure.
+0.3.sec=The parties wish to {Purpose.Description} (the “Relationship”) in connection with which Discloser has disclosed and/or may further disclose its Confidential Information (as defined below) to Recipient.  This Agreement is intended to protect Discloser’s Confidential Information (including Confidential Information previously disclosed to Recipient) against unauthorized use or disclosure.
 
 0.4.sec=AGREEMENT
 
@@ -80,7 +80,7 @@ Doc.Title=MUTUAL NONDISCLOSURE AGREEMENT
 
 13.1.Ti= Governing Law.  
 
-13.1.sec=This Agreement is governed and interpreted in accordance with STATE law notwithstanding applicable choice of law principles.  Any action brought to enforce this Agreement will be brought in the courts of the City/County/State and each party submits itself to personal jurisdiction in that court.
+13.1.sec=This Agreement is governed and interpreted in accordance with {Law.State} law notwithstanding applicable choice of law principles.  Any action brought to enforce this Agreement will be brought in the courts of {Forum.cl} and each party submits itself to personal jurisdiction in that court.
 
 13.2.Ti=	Entire Agreement.  
 
