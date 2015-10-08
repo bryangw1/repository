@@ -1,4 +1,10 @@
 Doc.Title=MUTUAL NONDISCLOSURE Agreement
+ Confidential_Information=<font color=“green”>Confidential Information</font>
+ Agreement=<font color=“green”>Agreement</font>
+ Recipient=<font color=“green”>Recipient</font>
+ Discloser=<font color=“green”>Discloser</font>
+
+
 
 0.1.sec=This Mutual Nondisclosure Agreement (this “{Agreement}”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “Company”), and {P2.N,E,A} (“Counterparty”).  Each party has disclosed and/or may further disclose its {Confidential Information} (as defined below) to the other in connection with the Relationship (as defined below) pursuant to the terms and conditions of this {Agreement}.  The term “{Discloser}” will refer to the Company whenever the context refers to the Company’s {Confidential Information} being disclosed to Counterparty, which is referred to as “{Recipient}” in that context.  Conversely, the term “{Discloser}” will refer to Counterparty whenever the context refers to Counterparty’s {Confidential Information} being disclosed to the Company, which is referred to as “{Recipient}” in that context. 
 
