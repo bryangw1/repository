@@ -30,19 +30,19 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 3.0.sec=Notwithstanding the above, {Recipient} will not have liability to {Discloser} with regard to any {Confidential Information} that the {Recipient} can prove:
 
-3.1.sec=(a)	was in the public domain at the time it was disclosed or has entered the public domain through no fault of {Recipient};
+3.1.sec=was in the public domain at the time it was disclosed or has entered the public domain through no fault of {Recipient};
 
-3.2.sec=(b)	was known to {Recipient}, without restriction, at the time of disclosure, as demonstrated by files in existence at the time of disclosure;
+3.2.sec=was known to {Recipient}, without restriction, at the time of disclosure, as demonstrated by files in existence at the time of disclosure;
 
-3.3.sec=(c)	was independently developed by {Recipient} without any use of the {Confidential Information}, as demonstrated by files created at the time of such independent development; 
+3.3.sec=was independently developed by {Recipient} without any use of the {Confidential Information}, as demonstrated by files created at the time of such independent development; 
 
-3.4.sec=(d)	is disclosed generally to third parties by {Discloser} without restrictions similar to those contained in this {Agreement}; 
+3.4.sec=is disclosed generally to third parties by {Discloser} without restrictions similar to those contained in this {Agreement}; 
 
-3.5.sec=(e)	becomes known to {Recipient}, without restriction, from a source other than {Discloser} without breach of this {Agreement} by {Recipient} and otherwise not in violation of {Discloser}’s rights;
+3.5.sec=becomes known to {Recipient}, without restriction, from a source other than {Discloser} without breach of this {Agreement} by {Recipient} and otherwise not in violation of {Discloser}’s rights;
 
-3.6.sec=(f)	is disclosed with the prior written approval of {Discloser}; or
+3.6.sec=is disclosed with the prior written approval of {Discloser}; or
 
-3.7.sec=(g)	is disclosed pursuant to the order or requirement of a court, administrative agency, or other governmental body; provided, however, that {Recipient} will provide prompt notice of such court order or requirement to {Discloser} to enable {Discloser} to seek a protective order or otherwise prevent or restrict such disclosure.
+3.7.sec=is disclosed pursuant to the order or requirement of a court, administrative agency, or other governmental body; provided, however, that {Recipient} will provide prompt notice of such court order or requirement to {Discloser} to enable {Discloser} to seek a protective order or otherwise prevent or restrict such disclosure.
 
 3.=[Z/ol-a/s7]
 
@@ -82,13 +82,13 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 12.sec=Each party’s obligations set forth in this {Agreement} are necessary and reasonable in order to protect {Discloser} and its business.  Due to the unique nature of {Discloser}’s {Confidential Information}, monetary damages may be inadequate to compensate {Discloser} for any breach by {Recipient} of its covenants and {Agreement}s set forth in this {Agreement}.  Accordingly, the parties each agree and acknowledge that any violation or threatened violation may cause irreparable injury to {Discloser}.  In addition to any other remedies that may be available, in law, in equity or otherwise, {Discloser} will be entitled to obtain injunctive relief against the threatened breach of this {Agreement} or the continuation of any breach by {Recipient}. 
 
-13.Ti=	Miscellaneous
+13.Ti=Miscellaneous
 
-13.1.Ti= Governing Law.  
+13.1.Ti=Governing Law.  
 
 13.1.sec=This {Agreement} is governed and interpreted in accordance with {Law.State} law notwithstanding applicable choice of law principles.  Any action brought to enforce this {Agreement} will be brought in the courts of {Forum.cl} and each party submits itself to personal jurisdiction in that court.
 
-13.2.Ti=	Entire Agreement.  
+13.2.Ti=Entire Agreement.  
 
 13.2.sec=This {Agreement} contains the complete {Agreement} of the parties regarding relating to the subject matter and supersedes all prior or contemporaneous discussions, understandings and {Agreement}s, whether oral or written.  This {Agreement} may be modified only in writing signed by both parties.  
 
