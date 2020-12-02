@@ -13,7 +13,9 @@ are.na is almost like a social network for vision boards. accordingly lots of th
 ### [Spotify](https://open.spotify.com/user/bryangwilson?si=msEW9mCyRP6YXjE12cfirQ) 📻
 i use music as a lens by which to evaluate circumstances in my life and regularly create new playlists to that end.
 
-<span style="display:block;text-align:center"><iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EM0u8g5JOCG7B" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></span>
+<span style="display:block;text-align:center">
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EM0u8g5JOCG7B" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</span>
 
 ### [Strava](https://www.strava.com/athletes/14353137) 🏃‍♂️
 in high school and college, i ran competitively. after becoming relatively disillusioned with running, i went on a hiatus.however, in 2020, i joined [Raytona Beach Track Club](https://www.instagram.com/raytona_beach/) and started running again without a watch and have recently committed to run a marathon in the spring of 2021. as a result of this, i am planning to start using Strava again more regularly to track key workouts. below are personal bests and (hopefully) an embed code for periodic activity that will show up on Strava.
