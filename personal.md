@@ -11,7 +11,7 @@ are.na is almost like a social network for vision boards. accordingly lots of th
 <iframe width="900" height="900" src="https://www.are.na/bryan-wilson/strange-loops-2wuupdiwraa" frameborder="0"></iframe>
 
 ### [Spotify](https://open.spotify.com/user/bryangwilson?si=msEW9mCyRP6YXjE12cfirQ) 📻
-i use music as a lens by which to evaluate circumstances in my life and regularly create new playlists to that end.
+i use music as a lens by which to evaluate circumstances in my life and regularly create new playlists to that end. below are my top 100 most-listened to songs of 2020.
 
 <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EM0u8g5JOCG7B" width="600" height="400" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
