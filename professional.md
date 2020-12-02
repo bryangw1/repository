@@ -11,18 +11,27 @@ currently, i am doing research at MIT and legal engineering for social innovatio
 
 ### /experience 📜
 *Consultant* **BrightHive** Aug 2020 - Present
+
 *Consultant* **Ewing Marion Kauffman Foundation** Apr 2020 - Present
+
 *Fellow* **MIT Connection Science** Aug 2019 - Present
+
 *Editor in Chief* **MIT Computational Law Report** Aug 2019 - Present
+
 *Founder, Co-Manager* **KC Legal Hackers** May 2015 - Present
+
 *Policy and Operations* **RiskGenius** Mar 2017 - June 2019
+
 *Innovation Fellow* **American Bar Association Center for Innovation** Aug 2017 - Aug 2018
+
 *Document Review and e-Discovery* **Hire Counsel** Aug 2016 - Dec 2016
+
 *Innovation Policy Intern* **Kansas City Mayor Slay James' Office** May 2015 - Aug 2015
 
 
 ### /education 🏫
 *Juris Doctor* **University of Missouri - Kansas City School of Law** May 2013 - May 2016
+
 *Bachelor of Arts - American Studies* **Oklahoma State University** Aug 2009 - Dec 2012
 
 ### /selected-publications 📚
@@ -42,20 +51,35 @@ Rev. 365
 
 ### /selected-presentations-workshops-lectures 👨🏻‍🏫
 *2020* **[UN World Data Forum](https://www.youtube.com/watch?v=1iDmSXJwClA&list=LL&index=1)** Measuring & Combatting Modern Slavery with Data-Driven Solutions
+
 *2020* **[ABA Business Law Section Virtual Annual Meeting](https://www.americanbar.org/content/dam/aba/events/business_law/2020/09/virtual/committee-schedule.pdf)** (legal) moonshots
+
 *2020* **[RadicalxChange](http://radicalxchange.org/)** Multiplying Utopias
+
 *2020* **[Earth 2030 @ CodeX Future Law](https://www.youtube.com/watch?v=KLdb1qHzcwQ)** Blockchain Ethics Panel
+
 *2020* **[ATIS Time and Money at the New York Stock Exchange](https://tam.atis.org/)** Legal Aspects of DLT
+
 *2019* **[MIT Media Lab Symposium on Blockchain, Robotics, and AI](https://youtu.be/ReXFCqx5--s?t=26859)** Automated Legal Entities
+
 *2019* **[Block (Legal) Tech at Chicago Kent School of Law](https://www.thelawlabchannel.com/dazza-greenwood-and-bryan-wilson-building-for-law)** Building for Law
+
 *2019* **[Forbes presents Imagination in Action](https://www.youtube.com/watch?v=dKcTsnk59xU)** How Cryptokitties Might Information the Infrastructure for Computational Law
+
 *2019* **[RelativityFest]()** Interoperable Legal Apps and Services
+
 *2018* **[University College London]()** Hack the Law
+
 *2018* **[ABA Annual Meeting]()** Fellows Spotlight
+
 *2018* **[BSides KC]()** Computational Law Village
+
 *2018* **[UMKC Busines Law Association]()** Keeping Business Out of Court: Emerging Compliance Opportunities for Lawyers
+
 *2017* **[KC Cyber Security Conference]()** Moving from IT Security to Enterprise Risk Management
+
 *2017* **[RelativityFest]()** Spokesperson Bootcamp: Grow Your Thought Leadership Through Media Interviews
+
 *2017* **[BSides KC]()** The Symbiotic Relationship of Information Security and Cyber Insurance
 
 ### /headshot 😎
