@@ -10,7 +10,7 @@ some of the things i am most proud of:
 currently, i am doing research at MIT and legal engineering for social innovation projects with the [Ewing Marion Kauffman Foundation](https://www.kauffman.org/) and [BrightHive](https://brighthive.io/)
 
 ### /experience 📜
-*Consultant* **BrightHive** Aug 2020 - Present
+*Legal Engineer* **BrightHive** Jan 2021 - Present
 
 *Consultant* **Ewing Marion Kauffman Foundation** Apr 2020 - Present
 
@@ -86,4 +86,4 @@ Rev. 365
 ![](https://i.imgur.com/A4MNbZg.jpg)
 
 ### /bio 📓
-Bryan is a legal engineer interested in reimagining the ways technology, design, and visualization can be combined to improve the function of the legal system. Bryan's work exploring the edges of legal innovation has earned him an appointment to MIT Connection Science as a Fellow, where he is serving as the Editor in Chief of the MIT Computational Law Report. Previously listed by Legaltech News as 1 of the 18 Millenials Changing the Face of Legal Tech, Bryan has helped organize CLEs, conferences, and events and been invited to speak at workshops and conferences across the North America and Europe, including at the 2020 U.N. World Data Forum.
+As a legal engineer at Brighthive, Bryan is interested in reimagining the ways technology, design, and visualization can be combined to improve the function of legal systems. Bryan's work exploring the edges of legal innovation has earned him an appointment to MIT Connection Science as a Fellow, where he is serving as the Editor in Chief of the MIT Computational Law Report. Previously listed by Legaltech News as 1 of the 18 Millenials Changing the Face of Legal Tech, Bryan has helped organize CLEs, conferences, and events and been invited to speak at workshops and conferences across the North America and Europe, including at the 2020 U.N. World Data Forum.
