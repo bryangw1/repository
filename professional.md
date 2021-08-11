@@ -28,7 +28,6 @@ currently, i am doing research at MIT and legal engineering for social innovatio
 
 *Innovation Policy Intern* **Kansas City Mayor Slay James' Office** May 2015 - Aug 2015
 
-
 ### /education 🏫
 *Juris Doctor* **University of Missouri - Kansas City School of Law** May 2013 - May 2016
 
@@ -86,4 +85,4 @@ Rev. 365
 ![](https://i.imgur.com/A4MNbZg.jpg)
 
 ### /bio 📓
-Bryan is interested in reimagining the ways technology, design, and visualization can be combined to improve the function of legal systems. Bryan’s work exploring the edges of legal innovation has earned him a position as Legal Engineer at Brighthive and an appointment to MIT Connection Science as a Fellow, where he is serving as the Editor in Chief of the MIT Computational Law Report. Previously listed by Legaltech News as 1 of the 18 Millenials Changing the Face of Legal Tech, Bryan has helped organize CLEs, conferences, and events and been invited to speak at workshops and conferences across North America and Europe, including at the 2020 U.N. World Data Forum.
+Bryan is interested in reimagining the ways technology, design, and visualization can be combined to improve the function of legal systems. Bryan’s work exploring the edges of legal innovation has earned him a position as Legal Engineer at Brighthive and an appointment to MIT Connection Science as a Fellow, where he is serving as the Editor in Chief of the MIT Computational Law Report. Previously listed by Legaltech News as 1 of the 18 Millenials Changing the Face of Legal Tech, Bryan has helped organize CLEs, conferences, and events and been invited to speak at workshops and conferences across North America and Europe.
