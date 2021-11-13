@@ -8,8 +8,6 @@ some of the things i am most proud of:
 * founding editor-in-chief of the [MIT Computational Law Report](https://law.mit.edu) and colleague instrucor for the MIT Media Lab's [Global Ventures Course](https://stellar.mit.edu/S/course/MAS/fa20/MAS.665/) and [IAP Computational Law Workshop Course](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course/)
 * technical advisor for [Data Rights Protocol](https://datarightsprotocol.org/)
 
-currently, i am doing research at MIT and legal engineering for social innovation projects with the [Ewing Marion Kauffman Foundation](https://www.kauffman.org/) and [BrightHive](https://brighthive.io/)
-
 ### /experience 📜
 *Technical Advisor - Data Rights Protocol* **Consumer Reports** Sep 2021 - Present
 
