@@ -1,25 +1,33 @@
 ## /professional 🗂️
 i work on a wide range of projects that cover a number of subjects and disciplines. i believe there is a symbiotic relationship between researching, teaching, and creating. i believe there is lots of opportunity in the space between traditional disciplines.
 
-some of the things i am most proud of:
-* selected as 1 of [18 millenials changing the face of legal tech](https://www.law.com/therecorder/2018/03/13/18-millennials-changing-the-face-of-legal-tech/?kw=18%20Millennials%20Changing%20the%20Face%20of%20Legal%20Tech&slreturn=20201030134253) by law.com (2018)
-* twice invited to speak at the [U.N. World Data Forum](https://www.youtube.com/watch?v=1iDmSXJwClA)
-* early stage employee at [RiskGenius](), an InsurTech that exited in 2020
-* founding editor-in-chief of the [MIT Computational Law Report](https://law.mit.edu) and colleague instrucor for the MIT Media Lab's [Global Ventures Course](https://stellar.mit.edu/S/course/MAS/fa20/MAS.665/) and [IAP Computational Law Workshop Course](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course/)
-* technical advisor for [Data Rights Protocol](https://datarightsprotocol.org/)
+### /current
+*Legal Engineer* **Upside** Jan 2022 - Present
 
-### /experience 📜
-*Technical Advisor - Data Rights Protocol* **Consumer Reports** Sep 2021 - Present
+*Co-Founder* **Folks Capital** Aug 2021 - Present
 
-*Legal Engineer* **Brighthive** Jan 2021 - Present
-
-*Consultant* **Ewing Marion Kauffman Foundation** Apr 2020 - Apr 2021
+*Co-Founder* **AllHardWork.Club** Jan 2021 - Present
 
 *Fellow* **MIT Connection Science** Aug 2019 - Present
 
 *Editor in Chief* **MIT Computational Law Report** Aug 2019 - Present
 
 *Founder, Co-Manager* **KC Legal Hackers** May 2015 - Present
+
+### /accomplishments ⛰️
+some of the things i am most proud of:
+* selected as 1 of [18 millenials changing the face of legal tech](https://www.law.com/therecorder/2018/03/13/18-millennials-changing-the-face-of-legal-tech/?kw=18%20Millennials%20Changing%20the%20Face%20of%20Legal%20Tech&slreturn=20201030134253) by law.com (2018)
+* twice invited to speak at the [U.N. World Data Forum](https://www.youtube.com/watch?v=1iDmSXJwClA)
+* early stage employee at [RiskGenius](https://riskgenius.com/), an InsurTech that exited in 2020
+* founding editor-in-chief of the [MIT Computational Law Report](https://law.mit.edu) and colleague instrucor for the MIT Media Lab's [Global Ventures Course](https://stellar.mit.edu/S/course/MAS/fa20/MAS.665/) and [IAP Computational Law Workshop Course](https://mitmedialab.github.io/2021-MIT-IAP-Computational-Law-Course/)
+* technical advisor for [Data Rights Protocol](https://datarightsprotocol.org/)
+
+### /experience 📜
+*Technical Advisor - Data Rights Protocol* **Consumer Reports** Sep 2021 - Nov 2022
+
+*Legal Engineer* **Brighthive** Jan 2021 - Jan 2022
+
+*Consultant* **Ewing Marion Kauffman Foundation** Apr 2020 - Apr 2021
 
 *Policy and Operations* **RiskGenius** Mar 2017 - June 2019
 
@@ -92,4 +100,4 @@ Rev. 365
 ![](https://i.imgur.com/A4MNbZg.jpg)
 
 ### /bio 📓
-Bryan is interested in reimagining the ways technology, design, and visualization can be combined to improve the function of legal systems. Bryan’s work exploring the edges of legal innovation has earned him a position as Legal Engineer at Brighthive and an appointment to MIT Connection Science as a Fellow, where he is serving as the Editor in Chief of the MIT Computational Law Report. Previously listed by Legaltech News as 1 of the 18 Millenials Changing the Face of Legal Tech, Bryan has helped organize CLEs, conferences, and events and been invited to speak at workshops and conferences across North America and Europe.
+Bryan is interested in reimagining the ways technology, design, and visualization can be combined to improve the function of legal systems. Bryan’s work exploring the edges of legal innovation has earned him a position as Legal Engineer at Upside and an appointment to MIT Connection Science as a Fellow, where he is serving as the Editor in Chief of the MIT Computational Law Report. Previously listed by Legaltech News as 1 of the 18 Millenials Changing the Face of Legal Tech, Bryan has helped organize CLEs, conferences, and events and been invited to speak at workshops and conferences across North America and Europe.
