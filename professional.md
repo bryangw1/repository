@@ -97,7 +97,7 @@ Rev. 365
 2017 **[BSides KC]()** The Symbiotic Relationship of Information Security and Cyber Insurance
 
 ### /headshot 😎
-![](https://i.imgur.com/A4MNbZg.jpg)
+![image](https://user-images.githubusercontent.com/10615650/164292423-eceeda35-67f3-469e-a639-57e016d0317c.png)
 
 ### /bio 📓
 Bryan is interested in reimagining the ways technology, design, and visualization can be combined to improve the function of legal systems. Bryan’s work exploring the edges of legal innovation has earned him a position as Legal Engineer at Upside and an appointment to MIT Connection Science as a Fellow, where he is serving as the Editor in Chief of the MIT Computational Law Report. Previously listed by Legaltech News as 1 of the 18 Millenials Changing the Face of Legal Tech, Bryan has helped organize CLEs, conferences, and events and been invited to speak at workshops and conferences across North America and Europe.
