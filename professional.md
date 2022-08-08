@@ -1,12 +1,10 @@
 ## /professional 🗂️
-i work on a wide range of projects that cover a number of subjects and disciplines. i believe there is a symbiotic relationship between researching, teaching, and creating. i believe there is lots of opportunity in the space between traditional disciplines.
+i work on a wide range of projects that cover a number of subjects and disciplines. i believe there is a symbiotic relationship between researching, teaching, creating, and experimenting. i believe there is lots of overlapping opportunity in the spaces between traditional disciplines.
 
 ### /current
 *Legal Engineer* **Upside** Jan 2022 - Present
 
 *Co-Founder* **Folks Capital** Aug 2021 - Present
-
-*Co-Founder* **AllHardWork.Club** Jan 2021 - Present
 
 *Fellow* **MIT Connection Science** Aug 2019 - Present
 
