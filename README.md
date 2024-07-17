@@ -1,8 +1,1 @@
-## [bryangw.me](http://www.bryangw.me) ⚡
-i'm bryan. i like doing lots of different things. this is my website.
-
-### [/personal](http://bryangw1.github.io/repository/personal.html)🏄‍♂️ 
-my personal page is where you can check out content related to art, cooking, music, and exercise, among other things
-
-### [/professional](http://bryangw1.github.io/repository/professional.html) 🗂️
-my work explores the ways law, data, design, and process engineering can be used to empower individuals, promote knowledge sharing and communications, and improve business, legal, and technical outcomes.
+<a href="mailto:bgw4g5@gmail.com" style="display: inline-block; padding: 5px 5px; font-size: 16px; color: gray; background-color: white; text-align: center; text-decoration: none; border-radius: 5px;">✉️ email</a>  <a href="https://www.are.na/bryan-wilson/channels" style="display: inline-block; padding: 5px 5px; font-size: 16px; color: gray; background-color: white; text-align: center; text-decoration: none; border-radius: 5px;">🌐 are.na</a>  <a href="https://bryangw.me/" style="display: inline-block; padding: 5px 5px; font-size: 16px; color: gray; background-color: white; text-align: center; text-decoration: none; border-radius: 5px;">ℹ️ about</a>  <a href="https://bryangw.me/publications/" style="display: inline-block; padding: 5px 5px; font-size: 16px; color: gray; background-color: white; text-align: center; text-decoration: none; border-radius: 5px;">📚 publications</a>  <a href="https://bryangw.me/projects/" style="display: inline-block; padding: 5px 5px; font-size: 16px; color: gray; background-color: white; text-align: center; text-decoration: none; border-radius: 5px;">🧰 projects</a>  <a href="https://bryangw.me/misc/" style="display: inline-block; padding: 5px 5px; font-size: 16px; color: gray; background-color: white; text-align: center; text-decoration: none; border-radius: 5px;">🏄‍♂️ misc.</a>
