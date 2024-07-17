@@ -6,7 +6,8 @@ i enjoy lots of different things. below is something of a directory of the thing
 
 ## [are.na](https://www.are.na/bryan-wilson) 🖼️
 archived images, research, and browser tabs
-<iframe width="900" height="900" src="https://www.are.na/bryan-wilson/strange-loops-2wuupdiwraa" frameborder="0"></iframe>
+![image](https://github.com/user-attachments/assets/c5bb57a8-af75-41c6-bdbc-1e83fa1c53f9)
+
 
 ## [Spotify](https://open.spotify.com/user/bryangwilson?si=msEW9mCyRP6YXjE12cfirQ) 📻
 collections of a retired student radio show host
