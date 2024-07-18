@@ -9,7 +9,7 @@ My research focus, broadly speaking is Computational Law. What I mean by that is
 
 2022 B Wilson, et al. "**[Taxonomy of Tokens ](https://uploads-ssl.webflow.com/602fa386a0b6705bf095dbce/635a7a8704fcf67b9eb9700b_Upside_Taxonomy-of-Tokens.pdf)** - Upside eBook
 
-2022	E Ferrer, … B Wilson, … “**[Self-employment for autonomous robots using smart contracts]((https://arxiv.org/abs/2203.03411v2)**” ArXiv Preprint
+2022	E Ferrer, … B Wilson, … “**[Self-employment for autonomous robots using smart contracts](https://arxiv.org/abs/2203.03411v2)**” ArXiv Preprint
 
 2021 - M Ma, B Wilson "**[The Legislative Recipe: Syntax for Machine-Readable Legislation](https://arxiv.org/abs/2108.08678)**" Northwestern Journal of Technology and Intellectual Property
 
