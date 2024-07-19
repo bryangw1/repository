@@ -3,7 +3,7 @@
 
 My research focus, broadly speaking is Computational Law. What I mean by that is that most of the topics I have written about and presented on are in some way related to the idea that thinking about law as a technology in its own right (thinking about law as something that is in itself computable) will lead to improved understanding of what the law says, improved access to law and legal services, and improved user experience for all stakeholders. As a result, the topics I have written are diverse and include a number of different (non-traditional) subjects and disciplines.
 
-# publications
+# 📚 publications
 
 2024	A Constant,... B Wilson, … “**[A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks](https://arxiv.org/abs/2403.18537)**” ArXiv Preprint
 
